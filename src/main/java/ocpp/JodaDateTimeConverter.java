@@ -1,4 +1,4 @@
-package ocpp.cs._2020._03;
+package ocpp;
 
 import org.joda.time.DateTime;
 

@@ -3,7 +3,7 @@ package ocpp.cs._2020._03.generate;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.sun.codemodel.JDefinedClass;
 import com.sun.codemodel.JFieldVar;
-import ocpp.cs._2020._03.JodaDateTimeConverter;
+import ocpp.JodaDateTimeConverter;
 import org.jsonschema2pojo.AbstractAnnotator;
 
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
